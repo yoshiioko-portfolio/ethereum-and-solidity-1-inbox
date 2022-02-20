@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yoshiioko-portfolio/ethereum-and-solidity-1-inbox/issues"
   },
-  "homepage": "https://github.com/yoshiioko-portfolio/ethereum-and-solidity-1-inbox#readme"
+  "homepage": "https://github.com/yoshiioko-portfolio/ethereum-and-solidity-1-inbox#readme",
+  "dependencies": {
+    "solc": "^0.4.17"
+  }
 }
