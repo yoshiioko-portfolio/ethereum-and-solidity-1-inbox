@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/yoshiioko-portfolio/ethereum-and-solidity-1-inbox#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
     "ganache-cli": "^6.12.2",
     "mocha": "^9.2.1",
     "solc": "^0.4.17",
